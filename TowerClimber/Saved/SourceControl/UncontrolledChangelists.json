@@ -13,7 +13,12 @@
 				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/Characters/BP_PlatformerChar.uasset",
 				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/Characters/BP_King.uasset",
 				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/Characters/BP_Pig.uasset",
-				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/GM_Platformer.uasset"
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/GM_Platformer.uasset",
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/Characters/King/BP_King.uasset",
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/Characters/Pig/BP_Pig.uasset",
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/Characters/King/AnimSequences/Idle.uasset",
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/Characters/King/AnimSequences/Walk.uasset",
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/Characters/King/AS_King.uasset"
 			]
 		}
 	]
