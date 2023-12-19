@@ -5,7 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Maps/MAP_Debug.umap"
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Maps/MAP_Debug.umap",
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Input/Actions/IA_Move.uasset",
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Input/IMC_Platformer.uasset",
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/BP_PlatformerChar.uasset",
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/BP_King.uasset",
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/Characters/BP_PlatformerChar.uasset",
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/Characters/BP_King.uasset",
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/Characters/BP_Pig.uasset",
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/GM_Platformer.uasset"
 			]
 		}
 	]
