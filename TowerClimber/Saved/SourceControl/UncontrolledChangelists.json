@@ -156,7 +156,14 @@
 				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/PaperAssets/TileSets/Terrain_TileMap.uasset",
 				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Maps/MAP_Tower.umap",
 				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/PaperAssets/TileSets/DecorationsPadded.uasset",
-				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/PaperAssets/TileSets/TerrainPadded.uasset"
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/PaperAssets/TileSets/TerrainPadded.uasset",
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/AI/AIC_Pig.uasset",
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Input/AnimSequences/Idle.uasset",
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Input/AnimSequences/Walk.uasset",
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Input/AS_Pig.uasset",
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Input/ABP_Pig.uasset",
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/Characters/Pig/AS_Pig.uasset",
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/Characters/Pig/ABP_Pig.uasset"
 			]
 		}
 	]
