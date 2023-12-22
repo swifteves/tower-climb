@@ -165,7 +165,8 @@
 				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/Characters/Pig/AS_Pig.uasset",
 				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/Characters/Pig/ABP_Pig.uasset",
 				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/Characters/King/AnimSequences/Defeated.uasset",
-				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/CameraShake/CS_Defeated.uasset"
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/CameraShake/CS_Defeated.uasset",
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/Characters/Pig/AnimSequences/Defeated.uasset"
 			]
 		}
 	]
