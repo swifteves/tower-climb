@@ -170,7 +170,8 @@
 				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/Ledges/BP_Ledge_Solid.uasset",
 				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/Ledges/BP_Ledge_Solid_Narrow.uasset",
 				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/Ledges/BP_Ledge_OneWay.uasset",
-				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/Ledges/BP_Ledge_OneWay_Narrow.uasset"
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/Ledges/BP_Ledge_OneWay_Narrow.uasset",
+				"/Users/matthew.eves/Documents/tower-climb/TowerClimber/Content/Blueprints/Spring/BP_Spring.uasset"
 			]
 		}
 	]
